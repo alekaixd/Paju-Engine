@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{880EC7C5-1294-4CDF-AE26-330C9A926ED3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Paju", "Paju\Paju.vcxproj", "{9B7ABBE2-A63F-4CED-BAE7-532857C0FDE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B7ABBE2-A63F-4CED-BAE7-532857C0FDE5}.Debug|x64.ActiveCfg = Debug|x64
+		{9B7ABBE2-A63F-4CED-BAE7-532857C0FDE5}.Debug|x64.Build.0 = Debug|x64
+		{9B7ABBE2-A63F-4CED-BAE7-532857C0FDE5}.Release|x64.ActiveCfg = Release|x64
+		{9B7ABBE2-A63F-4CED-BAE7-532857C0FDE5}.Release|x64.Build.0 = Release|x64
+		{880EC7C5-1294-4CDF-AE26-330C9A926ED3}.Debug|x64.ActiveCfg = Debug|x64
+		{880EC7C5-1294-4CDF-AE26-330C9A926ED3}.Debug|x64.Build.0 = Debug|x64
+		{880EC7C5-1294-4CDF-AE26-330C9A926ED3}.Release|x64.ActiveCfg = Release|x64
+		{880EC7C5-1294-4CDF-AE26-330C9A926ED3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E2EA44A-F857-4181-86F3-70DAE0DABF5B}
+	EndGlobalSection
+EndGlobal
